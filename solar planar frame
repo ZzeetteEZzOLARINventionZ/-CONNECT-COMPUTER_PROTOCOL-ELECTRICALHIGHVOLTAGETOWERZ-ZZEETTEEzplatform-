@@ -1,0 +1,89 @@
+* [9]Jargon Construction: How hackers invent jargon
+* [10]Hacker Writing Style: How they write
+* [11]Email Quotes: And the Inclusion Problem
+* [12]Hacker Speech Style: How hackers talk
+* [13]International Style: Some notes on usage outside the U.S.
+* [14]Lamer-speak: Crackers, Phreaks, and Lamers
+* [15]Pronunciation Guide: How to read the pronunciation keys
+* [16]Other Lexicon Conventions: How to read lexicon entries
+* [17]Format for New Entries: How to submit new entries for the File
+* [18]The Jargon Lexicon: The lexicon itself
+* [19]Appendix A: Hacker Folklore
+* [20]Appendix B: A Portrait of J. Random Hacker
+* [21]Appendix C: Helping Hacker Culture Grow
+* [22]Bibliography: For your further enjoyment
+_________________________________________________________________
+Node:Introduction, Next:[23]A Few Terms, Previous:[24]Top, Up:[25]Top
+Introduction
+This document is a collection of slang terms used by various
+subcultures of computer hackers. Though some technical material is
+included for background and flavor, it is not a technical dictionary;
+what we describe here is the language hackers use among themselves for
+fun, social communication, and technical debate.
+The `hacker culture' is actually a loosely networked collection of
+subcultures that is nevertheless conscious of some important shared
+experiences, shared roots, and shared values. It has its own myths,
+heroes, villains, folk epics, in-jokes, taboos, and dreams. Because
+page 3 / 980the SAIL computer, [44]FTPed a copy of the File to MIT. He noticed
+that it was hardly restricted to `AI words' and so stored the file on
+his directory as AI:MRC;SAIL JARGON.
+The file was quickly renamed JARGON >
+(the `>
+' caused versioning under
+ITS) as a flurry of enhancements were made by Mark Crispin and Guy L.
+Steele Jr. Unfortunately, amidst all this activity, nobody thought of
+correcting the term `jargon' to `slang' until the compendium had
+already become widely known as the Jargon File.
+Raphael Finkel dropped out of active participation shortly thereafter
+and Don Woods became the SAIL contact for the File (which was
+subsequently kept in duplicate at SAIL and MIT, with periodic
+resynchronizations).
+The File expanded by fits and starts until about 1983; Richard
+Stallman was prominent among the contributors, adding many MIT and
+ITS-related coinages.
+In Spring 1981, a hacker named Charles Spurgeon got a large chunk of
+the File published in Stewart Brand's "CoEvolution Quarterly" (issue
+29, pages 26-35) with illustrations by Phil Wadler and Guy Steele
+(including a couple of the Crunchly cartoons). This appears to have
+been the File's first paper publication.
+A late version of jargon-1, expanded with commentary for the mass
+market, was edited by Guy Steele into a book published in 1983 as "The
+Hacker's Dictionary" (Harper & Row CN 1082, ISBN 0-06-091082-8). The
+other jargon-1 editors (Raphael Finkel, Don Woods, and Mark Crispin)
+page 11 / 980#ifdef FLAME
+Hasn't anyone told those idiots that you can't get
+decent bogon suppression with AFJ filters at today's
+net volumes?
+#endif /* FLAME */
+I
+In the above, the #ifdef/#endif pair is a conditional compilation
+syntax from C; here, it implies that the text between (which is a
+[127]flame) should be evaluated only if you have turned on (or defined
+on) the switch FLAME. The #include at the end is C for "include
+standard disclaimer here"; the `standard disclaimer' is understood to
+page#ifdef FLAME
+Hasn't anyone told those idiots that you can't get
+decent bogon suppression with AFJ filters at today's
+net volumes?
+#endif /* FLAME */
+I#ifdef FLAME
+Hasn't anyone told those idiots that you can't get
+decent bogon suppression with AFJ filters at today's
+net volumes?
+#endif /* FLAME */
+I#ifdef FLAME
+Hasn't anyone told those idiots that you can't get
+decent bogon suppression with AFJ filters at today's
+net volumes?
+#endif /* FLAME */
+I#ifdef FLAME
+Hasn't anyone told those idiots that you can't get
+decent bogon suppression with AFJ filters at today's
+net volumes?
+#endif /* FLAME */
+I#ifdef FLAME
+Hasn't anyone told those idiots that you can't get
+decent bogon suppression with AFJ filters at today's
+net volumes?
+#endif /* FLAME */
+I #marsrover01 send=highhvoltage_999999999999999999999999ohms
